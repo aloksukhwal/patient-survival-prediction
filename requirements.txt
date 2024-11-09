@@ -2,3 +2,4 @@ gradio
 xgboost
 scikit-learn
 numpy
+prometheus_client
